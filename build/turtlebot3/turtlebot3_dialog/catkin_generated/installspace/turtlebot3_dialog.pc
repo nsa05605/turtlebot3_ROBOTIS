@@ -1,0 +1,8 @@
+prefix=/home/affinity/catkin_ws/install
+
+Name: turtlebot3_dialog
+Description: Description of turtlebot3_dialog
+Version: 1.2.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs turtlebot3_msgs message_runtime
